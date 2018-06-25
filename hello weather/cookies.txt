@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+helloweatherapp.com	TRUE	/	FALSE	1999999999	_helloweather_session	T1JUYVhoL3NHMHhFZmg2dmlLdkdORWUzeUlNZkF0US9DQ0tpWElJTS94dWY0U1grUy9vQTdvLzYvblYvTUlUaHUxd3VpVEtnS0NndzJER0JlSGM5eWs5VmR5RVFsaEVtWkE2SGJFS2J6a3Z4ejMrdWFjN2RWUnNZb2l3aXNsZktSNEpvR1k3ZG02dzNFNTRIWFJWaklBPT0tLUo3eWFiQ3VKTEY1Y3NGS1cvczJaOXc9PQ%3D%3D--c2a7e85633aefa2b2e75bd17fbf0f00bd0e4ebdf
+.helloweatherapp.com	TRUE	/	FALSE	1999999999	__cfduid	ddc602391ae282a06971939878fa462141529948687
+
